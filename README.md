@@ -1,2 +1,3 @@
 # Take-a-break
-A pomodoro interface
+A simple pomodora GUI to manage your working session and break
+created using tkinter in python
